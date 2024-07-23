@@ -15,7 +15,7 @@ function App() {
         }, "vis1");
     }
 
-    renderTemplates();
+   // renderTemplates();
 
     return (
     <div className="App">
