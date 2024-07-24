@@ -5,7 +5,7 @@ import {useNavigate} from "react-router-dom";
 const ButtonVis = () => {
     const buttonStyles = {
         background: 'orange',
-        color: 'black',
+        color:'black',
         borderRadius: '5%',
         padding: '10px 20px',
         transition: 'background-color 0.3s, color 0.3s',
